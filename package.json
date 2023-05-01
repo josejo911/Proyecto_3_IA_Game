@@ -9,7 +9,7 @@
   "dependencies": {
     "sleep": "^5.1.1",
     "socket.io-client": "^2.1.0",
-    "yargs": "^11.1.0"
+    "yargs": "^17.7.2"
   },
   "scripts": {
     "start": "node index.js"
